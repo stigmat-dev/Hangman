@@ -21,4 +21,4 @@ and in edit mode, add the necessary words to it.
 The game is written in the Ruby programming language. 
 
 To start the game, in the terminal, from the folder with the game file, run the command:
-```ruby main.rb
+```ruby main.rb```
