@@ -16,6 +16,8 @@
 
 ```ruby main.rb```
 
+Для добавления своих слов, отредактируйте файл ```word.txt``` в папке ```data```, внутри папки игры.
+
 Пример запуска игры:
 
 https://asciinema.org/a/4ZrmtAzgdB8apoFo8uWGCVvn9
