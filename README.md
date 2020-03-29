@@ -23,4 +23,5 @@
 <a href="https://asciinema.org/a/4ZrmtAzgdB8apoFo8uWGCVvn9" target="blank"><img src="https://asciinema.org/a/4ZrmtAzgdB8apoFo8uWGCVvn9.svg" /></a>
 
 Почитать об игре "Виселица" можно на Википедии:
+
 https://ru.wikipedia.org/wiki/Виселица_(игра)
