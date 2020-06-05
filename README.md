@@ -12,6 +12,11 @@
 Игра написана на языке программирования Ruby.
 Протестирована на версиях 2.5.5 и 2.0.7.
 
+В игре используется гем "colorize", поэтому перед запуском игры, в терминале, перейдите
+в корневую папку игры, и выполните команду
+
+```bundle install```
+
 Для запуска игры, в терминале перейдите в папку с файлом игры ```main.rb```. И выполните команду
 
 ```ruby main.rb```
@@ -20,7 +25,7 @@
 
 Пример запуска игры:
 
-<a href="https://asciinema.org/a/4ZrmtAzgdB8apoFo8uWGCVvn9" target="blank"><img src="https://asciinema.org/a/4ZrmtAzgdB8apoFo8uWGCVvn9.svg" /></a>
+<script id="asciicast-JU7QnrcGj7GTYEtdSIYnzMz4C" src="https://asciinema.org/a/JU7QnrcGj7GTYEtdSIYnzMz4C.js" async></script>
 
 Почитать об игре "Виселица" можно на Википедии:
 
