@@ -25,7 +25,7 @@
 
 Пример запуска игры:
 
-<script id="asciicast-JU7QnrcGj7GTYEtdSIYnzMz4C" src="https://asciinema.org/a/JU7QnrcGj7GTYEtdSIYnzMz4C.js" async></script>
+<a href="https://asciinema.org/a/JU7QnrcGj7GTYEtdSIYnzMz4C" target="_blank"><img src="https://asciinema.org/a/JU7QnrcGj7GTYEtdSIYnzMz4C.svg" /></a>
 
 Почитать об игре "Виселица" можно на Википедии:
 
